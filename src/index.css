@@ -5,6 +5,8 @@
 /* Small app-wide refinements */
 html {
   -webkit-text-size-adjust: 100%;
+  /* Keep scrolled-to/focused elements clear of the fixed bottom action bar */
+  scroll-padding-bottom: 9rem;
 }
 
 body {

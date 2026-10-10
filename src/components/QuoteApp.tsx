@@ -165,7 +165,7 @@ export default function QuoteApp() {
         </nav>
       </header>
 
-      <main className="mx-auto max-w-3xl px-4 py-5 pb-28">
+      <main className="mx-auto max-w-3xl px-4 py-5 pb-36">
         {tab === "quote" &&
           (preview ? (
             <div className="space-y-4">
