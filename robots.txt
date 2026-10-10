@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://berthony01.github.io/bidright/sitemap.xml
